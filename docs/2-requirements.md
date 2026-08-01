@@ -1,6 +1,6 @@
 # Especificação de Requisitos
 
-**Versão:** 1.0
+**Versão:** 1.1
 
 **Data:** 01/08/2026
 
@@ -88,11 +88,11 @@ Novas dúvidas poderão ser registradas durante o refinamento dos requisitos ou 
 
 ---
 
-## Status
+Status
 
 ☑ Elaborado
 
-☐ Validado pelo Cliente
+☑ Validado pelo Cliente
 
 ☐ Aprovado para Detalhamento
 
@@ -100,6 +100,7 @@ Novas dúvidas poderão ser registradas durante o refinamento dos requisitos ou 
 
 ## Histórico de Versões
 
-| Versão | Data       | Alteração                               | Responsável |
-| ------ | ---------- | --------------------------------------- | ----------- |
-| 1.0    | 01/08/2026 | Criação da Especificação de Requisitos. | Raphael     |
+| Versão | Data       | Alteração                                    | Responsável |
+| ------ | ---------- | -------------------------------------------- | ----------- |
+| 1.0    | 01/08/2026 | Criação da Especificação de Requisitos.      | Raphael     |
+| 1.1    | 01/08/2026 | Ajustes após revisão e validação do cliente. | Raphael     |
