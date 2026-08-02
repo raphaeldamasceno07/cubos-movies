@@ -1,6 +1,6 @@
 # Entendimento do Problema
 
-**Versão:** 1.0
+**Versão:** 1.2
 
 **Data da reunião:** 01/08/2026
 
