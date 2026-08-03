@@ -4,7 +4,7 @@
 
 **Data da reunião:** 01/08/2026
 
-**Status:** Elaborado
+**Status:** Aprovado para Detalhamento
 
 **Participantes:**
 

@@ -4,7 +4,7 @@
 
 **Data:** 01/08/2026
 
-**Status:** Elaborado
+**Status:** Aprovado para Detalhamento
 
 **Participantes:**
 
@@ -50,6 +50,7 @@ Desenvolver uma aplicação web que permita aos usuários gerenciar sua coleçã
 - **RF10** - Enviar e-mail de lembrete para filmes com data de lançamento futura.
 - **RF11** - Permitir a alternância entre os temas claro e escuro.
 - **RF12** - Permitir o upload da imagem do filme.
+- **RF13** - Permitir o logout do usuário.
 
 ---
 
