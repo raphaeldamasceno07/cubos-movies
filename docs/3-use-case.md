@@ -323,6 +323,8 @@ O usuário seleciona a opção **"Cadastrar Filme"**.
 
 ### Fluxo Principal
 
+![Fluxo do caso de uso](../diagrams/create-movie-use-case.png)
+
 1. O usuário seleciona a opção **"Cadastrar Filme"**.
 2. O sistema apresenta o formulário de cadastro.
 3. O usuário informa os dados do filme.
