@@ -59,7 +59,6 @@ O objetivo principal deste projeto não é apenas entregar uma aplicação funci
 ## Roadmap
 
 ### Sprint 0 — Engenharia
-
 - [x] Entendimento do Problema
 - [x] Especificação de Requisitos
 - [x] Casos de Uso
@@ -68,24 +67,20 @@ O objetivo principal deste projeto não é apenas entregar uma aplicação funci
 - [ ] ADRs
 
 ### Sprint 1 — Backend
-
 - [ ] Estrutura da Clean Architecture
 - [ ] Modelagem do Banco
 - [ ] API REST
 - [ ] Autenticação
-- [ ] CRUD de Filmes
-- [ ] Upload de Imagens
+- [ ] Gerenciamento de Filmes
 - [ ] Agendamento de Notificações
 
 ### Sprint 2 — Frontend
-
-- [ ] Interface Web
-- [ ] Consumo da API
-- [ ] Tema Claro/Escuro
-- [ ] Responsividade
+- [ ] Estrutura da aplicação
+- [ ] Fluxo de autenticação
+- [ ] Gerenciamento de filmes
+- [ ] Integração com a API
 
 ### Sprint 3 — DevOps
-
 - [ ] Docker
 - [ ] CI/CD
 - [ ] Deploy
